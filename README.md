@@ -1,9 +1,10 @@
 There are 2 types of datatypes in Javascript-:                                            
-     1. Primitive datatypes
-     2. Reference datatypes
-
+     
 
 ```javascript
+1. Primitive datatypes.
+2. Reference datatypes
+
 // Primitive datatypes-:
 // 1. String
 var name = ("Atharv");
